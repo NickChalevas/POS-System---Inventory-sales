@@ -2,5 +2,6 @@
 
 
     echo "Hello";
+    echo "New";
 
 ?>
